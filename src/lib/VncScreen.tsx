@@ -5,7 +5,7 @@ import React, {
     useRef,
     useState,
 } from 'react';
-import RFB from '../noVNC/core/rfb';
+import RFB from '../vnc/core/rfb';
 
 export interface RFBOptions {
     shared: boolean;
