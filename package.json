@@ -1,8 +1,8 @@
 {
   "name": "@lenconda/react-vnc",
   "version": "0.1.0",
-  "description": "A React Component to connect to a websockified VNC client using noVNC.",
-  "author": "roerohan",
+  "description": "A React Component to connect to a websockified VNC client using noVNC with Socket.IO.",
+  "author": "Lenconda <i@lenconda.top>",
   "license": "MIT",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
@@ -29,10 +29,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/roerohan/react-vnc.git"
+    "url": "git+https://github.com/lenconda/react-vnc.git"
   },
   "bugs": {
-    "url": "https://github.com/roerohan/react-vnc/issues"
+    "url": "https://github.com/lenconda/react-vnc/issues"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
