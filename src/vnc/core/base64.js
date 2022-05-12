@@ -12,7 +12,7 @@ export default {
     base64Pad: '=',
 
     encode(data) {
-        "use strict";
+        
         let result = '';
         const length = data.length;
         const lengthpad = (length % 3);
